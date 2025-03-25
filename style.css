@@ -1,2 +1,15 @@
 @charset "UTF-8";
 
+body{
+    background-image: url(assets/fundo.jpg);
+    background-size: cover;  /*Para a imagem não ficar repetindo*/
+}
+
+#page{
+    background-color: #F0E8C2;
+    padding: 24px;
+    width: 800px;
+    border-radius: 24px;
+    margin: 48px auto;
+    box-sizing: border-box;
+}
